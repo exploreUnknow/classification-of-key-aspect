@@ -1,0 +1,13 @@
+Cross site scripting ## XSS ## scripting ##  
+SQL injection ##  SQL ## 
+Buffer overflow ## Buffer ## Stack ## out of bounds write ## bounds ## Off-by-one error ## IOHIDFamily ## 
+Directory traversal ## Directory ##  traversal ## 
+Cross-site request forgery ## Multiple cross-site request forgery (CSRF) vulnerabilities ## CSRF ## request ## Memory 
+PHP file inclusion ## php ## Eval injection vulnerability ## Eval ## 
+Use-after-free ## Use-after-free vulnerability ## Microsoft Internet Explorer 6 through 9 does not properly handle objects ## free ## A use after free issue was addressed with improved memory management. This issue is fixed ## 
+Integer overflow ## Integer ## 
+Untrusted search path ## Untrusted search path vulnerability ## search ## 
+Format string ## Format  ## 
+CRLF injection ## CRLF injection vulnerability ## CRLF ## 
+XML External Entity ## xml ## 
+unknown ## Unspecified ## index.php ## login.php ## Multiple unrestricted file upload vulnerabilities ## NULL ## A NULL pointer dereference ##  An ActiveX control ## The management console ##  CoreGraphics ## The installer ## validation ## Insufficient validation of untrusted input ## win32k.sys ## Insufficient data validation ## Incomplete blacklist vulnerability ## Incomplete ## Array ## permission ## type ## interpretation ## Remote Code Execution ## Eval injection vulnerability ## Type confusion ## A logic issue was addressed with improved state management. This issue is fixed ## access ## An arbitrary file upload vulnerability ## Open redirect vulnerability ## information ## An information disclosure vulnerability ## The kernel ## command injection ## A flaw was found ## A vulnerability was discovered ## Privilege ## potential ## ChakraCore and Microsoft Edge ## A security feature bypass vulnerability exists ##  Elevation of Privilege ## 'Windows Kernel Elevation of Privilege ## The Cascading Style Sheets (CSS) implementation	 ##  A flaw was found ## A flaw was discovered ##  denial of service ## dos ## denial ## An elevation of privilege vulnerability ## Race condition ## A vulnerability has been identified ## An issue was discovered ## remote code execution ## Multiple vulnerabilities ## WebKit, as used ## 

@@ -1,0 +1,7 @@
+remote attacker. ## a remote client ## high privileged attacker with network access via multiple protocols ## low privileged attacker with network access via HTTP ## unauthenticated attacker with network access via HTTP ## man-in-the-middle attackers ## URL  ## target server ## Remote Code Execution (RCE) ## Remote Command Execution (RCE) ## JNDI ## LDAP ## RMI ## DNS ## Reverse shell ## log4j2
+Local attacker. ## other local users ## local user ## malicious user ## Local Security Authority Protection (LSA)  ## Local Security Authority Server Service (LSASS) ## Local files ## Local commands ## file, gopher, dict protocols ## Backup files ## Debugging information ## Error informatio 
+authenticated users attacker ## attackers with permission ## privileged user
+Context dependent attacker ## 
+Physically proximate attacker ## physical attackers  ## physical access
+user-assisted attackers ## 
+unknown attackers ## unspecified attackers ## 
