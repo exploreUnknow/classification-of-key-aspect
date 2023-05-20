@@ -5,7 +5,7 @@ temp.ipynb: tool
 
 get_att_type_class.ipynb: stage 1 in paper
 
-tf-idf...ipynb: stage 1 in paper
+tf-idf...ipynb: stage 2 in paper
 
 other file: Pre-data processing and intermediate conversion
 
